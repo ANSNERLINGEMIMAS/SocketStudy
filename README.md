@@ -83,10 +83,12 @@ client_socket.close()
 ## OUTPUT:
 
 server.py
+
 <img width="519" height="124" alt="Screenshot 2025-09-02 085443" src="https://github.com/user-attachments/assets/bb5ffe86-5ad4-4236-ba5e-9627cb3e6470" />
 
 
 client.py
+
 <img width="519" height="124" alt="Screenshot 2025-09-02 085421" src="https://github.com/user-attachments/assets/8369bf95-3130-4250-ae29-f4ad9ede15e2" />
 
 ## RESULT:
